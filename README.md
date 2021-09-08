@@ -8,7 +8,7 @@ A [nix-shell](https://nixos.org/manual/nix/stable/#description-13) template to s
 
 Built gathering inspiration from several [sources](#resources), it makes available:
 
-- `unstable.erlang`
+- `unstable.`[erlang](https://www.erlang.org/)
 
 ## Resources
 
